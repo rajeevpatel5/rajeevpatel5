@@ -14,6 +14,8 @@
 
 ## 👨‍💻 About Me
 
+I’m a **Computer Science** student at **[McNeese State University](https://www.mcneese.edu/)** in **Lake Charles, Louisiana, USA**, building toward roles in **cloud** and **platform engineering**.
+
 I’m a **cloud engineer** focused on **AWS**, **infrastructure as code**, and **shipping software safely**. I like designing **multi-tier architectures** (VPC, load balancing, compute, managed databases), automating with **Terraform**, packaging services with **Docker**, and wiring **CI/CD** so teams can release with confidence.
 
 I care about **security basics**—least-privilege **IAM**, private subnets for data tiers, and **no long-lived keys** in code—and about **clarity** in repos so anyone can understand and reproduce the stack.
@@ -80,11 +82,9 @@ I care about **security basics**—least-privilege **IAM**, private subnets for 
 
 ## 🎓 Academic background
 
-<!-- Edit this block with your real schools & dates -->
-
-- 🏫 **Your university or bootcamp** — *Degree / program · 20XX – 20XX*  
-  - Example: coursework in **networks**, **operating systems**, or **cloud** electives  
-  - Example: scholarships, competitions, or capstone **relevant to DevOps/cloud**
+- 🏫 **[McNeese State University](https://www.mcneese.edu/)** — *Lake Charles, Louisiana, USA*  
+  - **B.S. Computer Science**  
+  - Blending CS fundamentals with practical **AWS**, **IaC**, and **CI/CD** projects *(add expected graduation year, honors, or notable coursework when you want)*
 
 ---
 
