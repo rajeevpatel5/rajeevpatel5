@@ -86,6 +86,15 @@ I care about **security basics**—least-privilege **IAM**, private subnets for 
   - **B.S. Computer Science**  
   - Blending CS fundamentals with practical **AWS**, **IaC**, and **CI/CD** projects *(add expected graduation year, honors, or notable coursework when you want)*
 
+## 🏅 Certifications
+
+- 🛡️ **CyberDefense Pro** — TestOut
+
+<!-- If you also completed these, uncomment the bullets:
+- **Linux Pro Certification** — TestOut
+- **Hybrid Server Pro: Core** — TestOut
+-->
+
 ---
 
 <div align="center">
