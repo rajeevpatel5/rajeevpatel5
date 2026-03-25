@@ -42,5 +42,6 @@ These are good candidates to **pin on your profile** (GitHub → your profile �
 
 ### Let’s connect
 
-If you’re hiring for **cloud**, **DevOps**, or **platform** roles, the pinned repos above are the best snapshot of how I work.  
-Add your **LinkedIn** or **email** here when you’re ready — *this line is intentionally left for you to edit.*
+If you’re hiring for **cloud**, **DevOps**, or **platform** roles, the pinned repos above are the best snapshot of how I work.
+
+<!-- Optional: add links, e.g. [LinkedIn](https://www.linkedin.com/in/your-handle) · email@domain.com -->
