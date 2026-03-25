@@ -99,8 +99,6 @@ I care about **security basics**—least-privilege **IAM**, private subnets for 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeevpatel5/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-
-<sub>Update or remove the email badge below when you want it public.</sub>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevpatel582@gmail.com)
 
 </div>
