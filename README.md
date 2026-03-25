@@ -90,10 +90,8 @@ I care about **security basics**—least-privilege **IAM**, private subnets for 
 
 - 🛡️ **CyberDefense Pro** — TestOut
 
-<!-- If you also completed these, uncomment the bullets:
-- **Linux Pro Certification** — TestOut
-- **Hybrid Server Pro: Core** — TestOut
--->
+- 🐧 **Linux Pro Certification** — TestOut
+- 🖥️ **Hybrid Server Pro: Core** — TestOut
 
 ---
 
