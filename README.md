@@ -65,6 +65,18 @@ I care about **security basics**—least-privilege **IAM**, private subnets for 
 
 ---
 
+## 🎯 Target Roles
+
+- Cloud Engineer (AWS)
+- DevOps / CI-CD Engineer
+- Platform Engineering (containers + IaC)
+
+## 🔥 What makes my work job-ready
+
+- Infrastructure that’s repeatable with **Terraform** (modular IaC patterns)
+- Deployments packaged with **Docker** and supported with **Kubernetes**-style manifests
+- CI/CD pipelines that emphasize **test + safe deploy** and clear automation
+
 ## ⭐ Highlighted projects
 
 | Project | What recruiters see |
