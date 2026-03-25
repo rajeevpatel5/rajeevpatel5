@@ -88,7 +88,6 @@ I care about **security basics**—least-privilege **IAM**, private subnets for 
 | [**Sensor Analystic**](https://github.com/rajeevpatel5/sensor-analystic) | **IoT-style** path: devices → APIs → analytics & UI |
 | [**EnviraLog**](https://github.com/rajeevpatel5/EnviraLog) | Larger **application** codebase beyond infra demos |
 
-**Pin these** (up to 6) from your profile → **Customize your pins** — same order as the table works well for **cloud** roles.
 
 ---
 
